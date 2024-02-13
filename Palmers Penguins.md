@@ -24,4 +24,5 @@ ggplot(data= penguins)+
   labs(title= "Palmer Penguins: Body Mass vs. Flipper Length")
 ```
 
+[PalmersPenguins_Rplot.pdf](https://github.com/datash0ck/R-Projects/files/14272146/PalmersPenguins_Rplot.pdf)
 
